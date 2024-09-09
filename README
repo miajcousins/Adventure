@@ -1,0 +1,22 @@
+FROM WITHIN SRC DIRECTORY
+
+To run the game...
+1. install cabal
+2. run :
+    cabal update
+3. run : 
+    cabal build
+4. run : 
+    cabal run
+5. follow game instructions
+
+to run the tests...
+1. install cabal
+2. run :
+    cabal update
+3. run : 
+    cabal build
+4. run :
+    cabal repl
+5. run : 
+    runTests
